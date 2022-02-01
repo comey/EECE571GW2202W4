@@ -3,4 +3,6 @@ https://solidity-by-example.org/sending-ether/
 https://solidity-by-example.org/hacks/delegatecall/
 https://solidity-by-example.org/hacks/re-entrancy/
 https://consensys.github.io/smart-contract-best-practices/known_attacks/
+https://cryptomarketpool.com/multiple-ways-to-upgrade-a-solidity-smart-contract/
+https://mvpworkshop.co/blog/upgradeable-smart-contracts-proxy-pattern/
 https://kushgoyal.com/ethereum-solidity-how-use-call-delegatecall/#:~:text=Solidity%20has%20the%20call%20function,and%20external%20functions%20on%20contracts.&text=call%20is%20used%20to%20call,call%20and%20ether%20is%20sent.
